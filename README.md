@@ -1,0 +1,2 @@
+# DryGuard-IoT-Rain-and-Temperature-Based-Laundry-System
+**DryGuard: ESP32-powered IoT device that automatically protects outdoor laundry from rain using sensors, servo control, and a web interface for real-time monitoring and control.**  The system detects rain with a sensor, measures weather conditions with a DHT11, and moves a servo-driven cover via an ESP32, accessible through a modern web dashboard.
